@@ -1,4 +1,4 @@
-# Pro-Expo-EMS-
+# Pro-Expo-EMS
 This is an Exhibition Management System mobile application developed by a university team of five students in flutter
 
 Sameer Zakzak - Nabegh Sayegh - Farah Sayegh - Barakat Wakim - Manaf Saoub
